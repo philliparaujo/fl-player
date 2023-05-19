@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fl-player/static/css/main.0520aa68.css",
+    "main.js": "/fl-player/static/js/main.8c932e01.js",
+    "index.html": "/fl-player/index.html",
+    "main.0520aa68.css.map": "/fl-player/static/css/main.0520aa68.css.map",
+    "main.8c932e01.js.map": "/fl-player/static/js/main.8c932e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0520aa68.css",
+    "static/js/main.8c932e01.js"
+  ]
+}
