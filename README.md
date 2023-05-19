@@ -2,7 +2,7 @@
 
 ## Demo
 
-TBD
+[Demo: See the webpage live](https://philliparaujo.github.io/fl-player/)
 
 ## Functionality
 - Ability to load local MP3 files
